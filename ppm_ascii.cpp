@@ -40,16 +40,6 @@ int main()
 	{
 		printf("%3d %3d %3d ", vec_r[i][j], vec_g[i][j], vec_b[i][j]);
 	}
-	/*cout<<"\t";
-	for(int j=0;j<c;j++) 
-	{
-		printf("%3d ", vec_g[i][j]);
-	}
-	cout<<"\t";
-	for(int j=0;j<c;j++) 
-	{
-		printf("%3d ", vec_b[i][j]);
-	}*/
 	cout<<endl;
   }  
   return 0;
