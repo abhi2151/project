@@ -19,63 +19,97 @@ int conv(FILE *f, FILE *fw)
        {
        	 case 0 :{ switch(p)
        	           {
-       	           	 case 0: printf("2 \n"); break;
-					 case 1: printf("3 \n"); break;
-					 case 2: printf("4 \n"); break;
-                     case 3: printf("5 \n"); break;
-			         case 4: printf("6 \n"); break;
-			         case 5: printf("7 \n"); break;
-	                 case 6: printf("0 \n"); break;		
-		             case 7: printf("1 \n"); break;
-					}
+       	           	 case 0: printf("2 \n"); 
+			         break;
+		         case 1: printf("3 \n");
+			         break;
+		         case 2: printf("4 \n");
+			         break;
+                         case 3: printf("5 \n");
+			         break;
+			 case 4: printf("6 \n");
+			         break;
+			 case 5: printf("7 \n");
+			         break;
+	                 case 6: printf("0 \n");
+			         break;		
+		         case 7: printf("1 \n");
+			         break;
+		   }
 				
-			     } break;
+	         } break;
        	 
 		 case 1 :{ switch(p)
        	           {
-       	           	 case 0: printf("1 \n"); break;
-					 case 1: printf("2 \n"); break;
-					 case 2: printf("3 \n"); break;
-                     case 3: printf("4 \n"); break;
-			         case 4: printf("5 \n"); break;
-			         case 5: printf("6 \n"); break;
-	                 case 6: printf("7 \n"); break;		
-		             case 7: printf("0 \n"); break;
+       	           	 case 0: printf("1 \n");
+			          break;
+		         case 1: printf("2 \n");
+		                 break;
+			 case 2: printf("3 \n");
+		                 break;
+                         case 3: printf("4 \n");
+		                 break;
+			 case 4: printf("5 \n"); 
+		                 break;
+			 case 5: printf("6 \n");
+				 break;
+	                 case 6: printf("7 \n");
+				 break;		
+		          case 7: printf("0 \n");
+				 break;
 					}
 				
 			     } break;
        	
        	 case 2 :{ switch(p)
        	           {
-       	           	 case 0: printf("0 \n"); break;
-					 case 1: printf("1 \n"); break;
-					 case 2: printf("2 \n"); break;
-                     case 3: printf("3 \n"); break;
-			         case 4: printf("4 \n"); break;
-			         case 5: printf("5 \n"); break;
-	                 case 6: printf("6 \n"); break;		
-		             case 7: printf("7 \n"); break;
-					}
+       	           	 case 0: printf("0 \n");
+			         break;
+		         case 1: printf("1 \n"); 
+			         break;
+			 case 2: printf("2 \n");
+			         break;
+                         case 3: printf("3 \n");  
+			         break;
+			 case 4: printf("4 \n"); 
+			         break;
+			 case 5: printf("5 \n");  
+			         break;
+	                 case 6: printf("6 \n"); 
+			         break;		
+		         case 7: printf("7 \n");
+			         break;
+		     }
 				
-			     } break;
+	           } break;
        	
        	 case 3 :{ switch(p)
        	           {
-       	           	 case 0: printf("7 \n"); break;
-					 case 1: printf("0 \n"); break;
-					 case 2: printf("1 \n"); break;
-                     case 3: printf("2 \n"); break;
-			         case 4: printf("3 \n"); break;
-			         case 5: printf("4 \n"); break;
-	                 case 6: printf("5 \n"); break;		
-		             case 7: printf("6 \n"); break;
+       	           	 case 0: printf("7 \n");
+			         break;
+			 case 1: printf("0 \n"); 
+			         break;
+			 case 2: printf("1 \n"); 
+			         break;
+                         case 3: printf("2 \n");
+			         break;
+			 case 4: printf("3 \n");
+			         break;
+			 case 5: printf("4 \n");
+			         break;
+	                 case 6: printf("5 \n");
+			         break;		
+		         case 7: printf("6 \n"); 
+			         break;
 					}
 				
 			     } break;
        	 case 4 :{ switch(p)
        	           {
-       	           	 case 0: printf("6 \n"); break;
-					 case 1: printf("7 \n"); break;
+       	           	 case 0: printf("6 \n");
+			 break;
+					 case 1: printf("7 \n");
+			 break;
 					 case 2: printf("0 \n"); break;
                      case 3: printf("1 \n"); break;
 			         case 4: printf("2 \n"); break;
